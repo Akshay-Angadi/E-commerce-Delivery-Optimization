@@ -10,7 +10,7 @@ The project focuses on optimizing shipping costs and delivery times for an e-com
 
 ## Objectives
 
-1. **Minimize Days to Delivery**: Ensure shipments reach customers within 2 days when the origin and destination are identical, and within 4 days for other shipments.
+1. **Minimize Days to Delivery**: Ensuring shipments reach customers within 2 days when the origin and destination are identical, and within 4 days for other shipments.
 
-2. **Optimize Shipping Costs**: Reduce shipping expenses while meeting the specified delivery targets.
+2. **Optimize Shipping Costs**: Reducing shipping expenses while meeting the specified delivery targets.
 
