@@ -16,49 +16,28 @@ The project focuses on optimizing shipping costs and delivery times for an e-com
 
 ## Data Analysis
 
+This project evaluates the performance of two logistics providers, FastWheels and Ship2Home, in terms of shipping costs and delivery times across both local and outstation routes. 
+
 ### Average Total Logistic Cost of Providers for Different Shipping Routes
 
 ![Average Total Logistic Cost](./path/to/your/image1.jpeg)
 
 The analysis of the average total logistics cost across different shipping routes reveals:
 
-- **Local Routes**: 
-  - **Bangalore-Bangalore**: 
-    - FastWheels: ₹150.12 
-    - Ship2Home: ₹188.04
-  - **Delhi-Delhi**: 
-    - FastWheels: ₹171.82 
-    - Ship2Home: ₹204.95
 
-- **Outstation Routes**:
-  - **Bangalore-Delhi**: 
-    - FastWheels: ₹210.64 
-    - Ship2Home: ₹230.87
-  - **Delhi-Bangalore**: 
-    - FastWheels: ₹223.87 
-    - Ship2Home: ₹246.68
+
+**Local Routes**: FastWheels consistently demonstrates lower shipping costs and faster delivery times, making it the preferred choice for intra-city deliveries. 
+
+**Outstation Routes**: The comparison is more nuanced. While FastWheels generally offers cost advantages, Ship2Home occasionally outperforms in terms of quicker deliveries on certain long-distance routes. The data indicates that each provider has strengths depending on the route, with FastWheels excelling in cost efficiency and Ship2Home in speed for specific corridors.
+
+These insights help the e-commerce company strategically choose between the two providers, optimizing for either cost or speed based on the shipping route. This approach ensures that delivery targets are met while keeping shipping expenses under control.
+
 
 ### Average Delivery Days of Providers for Different Shipping Routes
 
 ![Average Delivery Days](./path/to/your/image2.jpeg)
 
 The analysis of the average delivery days across different shipping routes highlights:
-
-- **Local Routes**: 
-  - **Bangalore-Bangalore**: 
-    - FastWheels: 1.9 days 
-    - Ship2Home: 3.2 days
-  - **Delhi-Delhi**: 
-    - FastWheels: 2.0 days 
-    - Ship2Home: 2.6 days
-
-- **Outstation Routes**:
-  - **Bangalore-Delhi**: 
-    - FastWheels: 3.0 days 
-    - Ship2Home: 5.4 days
-  - **Delhi-Bangalore**: 
-    - FastWheels: 3.2 days 
-    - Ship2Home: 4.8 days
 
 ## Conclusion
 
