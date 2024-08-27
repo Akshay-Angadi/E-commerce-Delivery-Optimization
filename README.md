@@ -26,10 +26,11 @@ This project evaluates the performance of two logistics providers, FastWheels an
 - **Overall Costs:** FastWheels generally has a lower average total cost across both local and outstation routes compared to Ship2Home.
 
 ### Average Delivery Days of Providers for Different Shipping Routes
+![Pivot Table-2](https://github.com/user-attachments/assets/7a2d333d-9695-41e6-8dd9-0d132c1b80dc)
 
-![Average Delivery Days](./path/to/your/image2.jpeg)
-
-The analysis of the average delivery days across different shipping routes highlights:
+- **Local Routes:** FastWheels delivers faster than Ship2Home, with an average of 1.9 days compared to 3.2 days on the Bangalore-Bangalore route.
+- **Outstation Routes:** FastWheels generally delivers quicker on most outstation routes, but Ship2Home is faster on certain routes like Delhi-Chennai.
+- **Overall Delivery Times:** FastWheels has a lower average delivery time (3.6 days) across both local and outstation routes compared to Ship2Home (4.5 days).
 
 ## Conclusion
 
