@@ -19,19 +19,11 @@ The project focuses on optimizing shipping costs and delivery times for an e-com
 This project evaluates the performance of two logistics providers, FastWheels and Ship2Home, in terms of shipping costs and delivery times across both local and outstation routes. 
 
 ### Average Total Logistic Cost of Providers for Different Shipping Routes
+C:\Users\aksha\Downloads\Pivot Table-1.jpeg
 
-![Average Total Logistic Cost](./path/to/your/image1.jpeg)
-
-The analysis of the average total logistics cost across different shipping routes reveals:
-
-
-
-**Local Routes**: FastWheels consistently demonstrates lower shipping costs and faster delivery times, making it the preferred choice for intra-city deliveries. 
-
-**Outstation Routes**: The comparison is more nuanced. While FastWheels generally offers cost advantages, Ship2Home occasionally outperforms in terms of quicker deliveries on certain long-distance routes. The data indicates that each provider has strengths depending on the route, with FastWheels excelling in cost efficiency and Ship2Home in speed for specific corridors.
-
-These insights help the e-commerce company strategically choose between the two providers, optimizing for either cost or speed based on the shipping route. This approach ensures that delivery targets are met while keeping shipping expenses under control.
-
+Local Routes: FastWheels offers lower logistics costs compared to Ship2Home, especially for routes like Bangalore-Bangalore (₹150.12 vs. ₹188.04).
+Outstation Routes: The cost difference between FastWheels and Ship2Home varies, with FastWheels being more economical on some routes (e.g., Bangalore-Delhi).
+Overall Costs: FastWheels generally has a lower average total cost across both local and outstation routes compared to Ship2Home.
 
 ### Average Delivery Days of Providers for Different Shipping Routes
 
