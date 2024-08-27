@@ -21,9 +21,9 @@ This project evaluates the performance of two logistics providers, FastWheels an
 ### Average Total Logistic Cost of Providers for Different Shipping Routes
 ![Pivot Table-1](https://github.com/user-attachments/assets/2298edd9-008c-49b4-9a75-950de9e69567)
 
-- *Local Routes:* FastWheels offers lower logistics costs compared to Ship2Home, especially for routes like Bangalore-Bangalore (₹150.12 vs. ₹188.04).
-- *Outstation Routes:* The cost difference between FastWheels and Ship2Home varies, with FastWheels being more economical on some routes (e.g., Bangalore-Delhi).
-- *Overall Costs:* FastWheels generally has a lower average total cost across both local and outstation routes compared to Ship2Home.
+- **Local Routes:** FastWheels offers lower logistics costs compared to Ship2Home, especially for routes like Bangalore-Bangalore (₹150.12 vs. ₹188.04).
+- **Outstation Routes:** The cost difference between FastWheels and Ship2Home varies, with FastWheels being more economical on some routes (e.g., Bangalore-Delhi).
+- **Overall Costs:** FastWheels generally has a lower average total cost across both local and outstation routes compared to Ship2Home.
 
 ### Average Delivery Days of Providers for Different Shipping Routes
 
