@@ -32,6 +32,15 @@ This project evaluates the performance of two logistics providers, FastWheels an
 - **Outstation Routes:** FastWheels generally delivers quicker on most outstation routes, but Ship2Home is faster on certain routes like Delhi-Chennai.
 - **Overall Delivery Times:** FastWheels has a lower average delivery time (3.6 days) across both local and outstation routes compared to Ship2Home (4.5 days).
 
+### Final Distribution of Orders 
+![Optimized Solution](https://github.com/user-attachments/assets/68088ecd-0398-4470-8bf6-1968a2638e79)
+
+- **Local Shipping Routes:** FastWheels is optimally chosen for 92% of local orders, meeting the target delivery time of 2 days with an average cost of ₹233. Delhi-Delhi is the highest at 99% usage.
+- **Outstation Shipping Routes:** FastWheels is selected for 40% of outstation orders, meeting the 4-day target with an average cost of ₹197. The Delhi-Bangalore route has the highest usage at 75%.
+- **Cost Efficiency:** The solution balances cost and delivery time, with FastWheels providing a reasonable cost for both local and outstation routes while achieving the delivery targets.
+- **Order Distribution:** The higher the percentage of orders allocated to FastWheels, the more it aligns with the optimal delivery times, particularly on local routes.
+- **Strategic Insight:** The analysis suggests prioritizing FastWheels for local routes where it meets delivery targets more efficiently and selectively using it for outstation routes based on specific delivery needs.
+
 ## Conclusion
 
 Based on the data analysis, FastWheels generally offers lower costs and faster delivery times compared to Ship2Home, especially on local routes. This insight can guide the e-commerce company in making informed decisions about which logistic provider to choose for different routes.
