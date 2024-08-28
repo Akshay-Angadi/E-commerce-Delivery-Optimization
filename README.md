@@ -41,6 +41,15 @@ This project evaluates the performance of two logistics providers, FastWheels an
 - **Order Distribution:** The higher the percentage of orders allocated to FastWheels, the more it aligns with the optimal delivery times, particularly on local routes.
 - **Strategic Insight:** The analysis suggests prioritizing FastWheels for local routes where it meets delivery targets more efficiently and selectively using it for outstation routes based on specific delivery needs.
 
+### Insights From Goal Seek What-If Analysis
+![Problem Statement   Objective](https://github.com/user-attachments/assets/ef6b5977-0085-45fd-898b-0ea62c7f3b25)
+
+- **Order Distribution:** FastWheels handles a significant portion of orders, particularly on local routes, where it manages up to 85% of orders for Bangalore-Bangalore and 99% for Delhi-Delhi. For outstation routes, the distribution is more varied, with lower percentages, such as 6% for Delhi-Chennai and a higher percentage of 75% for Delhi-Bangalore.
+- **Cost Comparison:** FastWheels generally offers a lower average total logistic cost, especially in local shipping. For example, Bangalore-Bangalore costs ₹113, while Ship2Home costs ₹163. However, on certain outstation routes like Delhi-Kolkata, Ship2Home provides a lower cost.
+- **Delivery Time:** FastWheels consistently offers faster delivery times across all routes. For example, in local routes, it delivers in 1.9 to 2 days, compared to Ship2Home’s 2.6 to 3.6 days. The trend continues in outstation routes where FastWheels delivers faster, though the margin varies.
+- **Goal Seek What-If Analysis Impact:** The Goal Seek Analysis shows an optimized order distribution towards FastWheels, reducing both cost and delivery time. For instance, after optimization, 85% of Bangalore-Bangalore orders are assigned to FastWheels, reducing the delivery time to 2 days at an average cost of ₹189.
+- **Strategy Recommendation:** The analysis suggests that FastWheels is highly efficient for local routes in terms of both cost and delivery speed. However, for outstation routes, a mixed strategy might be more effective, depending on the route, to balance costs and delivery times effectively.
+
 ## Conclusion
 
 Based on the data analysis, FastWheels generally offers lower costs and faster delivery times compared to Ship2Home, especially on local routes. This insight can guide the e-commerce company in making informed decisions about which logistic provider to choose for different routes.
